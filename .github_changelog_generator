@@ -1,0 +1,7 @@
+pr-label=### Added
+enhancement-label=### Changed
+bugs-label=### Fixed
+enhancement-labels=enhancement,change
+bug_labels=bug,hotfix
+exclude-labels=release
+unreleased-label=Unreleased
