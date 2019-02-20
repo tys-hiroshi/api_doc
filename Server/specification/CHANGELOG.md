@@ -5,11 +5,11 @@
 
 ### Changed
 
-- add [\#1](https://github.com/tys-hiroshi/api_doc/pull/1) ([tys-hiroshi](https://github.com/tys-hiroshi))
+- add v1.0.2 [\#1](https://github.com/tys-hiroshi/api_doc/pull/1) ([tys-hiroshi](https://github.com/tys-hiroshi))
 
 ### Fixed
 
-- add [\#1](https://github.com/tys-hiroshi/api_doc/pull/1) ([tys-hiroshi](https://github.com/tys-hiroshi))
+- add v1.0.2 [\#1](https://github.com/tys-hiroshi/api_doc/pull/1) ([tys-hiroshi](https://github.com/tys-hiroshi))
 
 ## [v1.0.1](https://github.com/tys-hiroshi/api_doc/tree/v1.0.1) (2019-02-20)
 [Full Changelog](https://github.com/tys-hiroshi/api_doc/compare/v1.0.0...v1.0.1)
