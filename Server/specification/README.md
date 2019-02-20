@@ -6,7 +6,7 @@ docker pull ubuntu
 
 ## make file ~/.bash_profile
 
-export CHANGELOG_GITHUB_TOKEN="48f7d844c39b78dd8ba1c9221d3b7924da26b435"
+export CHANGELOG_GITHUB_TOKEN="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
 ## run docker
