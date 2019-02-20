@@ -25,5 +25,11 @@ github_changelog_generator -u tys-hiroshi -p api_doc
 ### .github_changelog_generator
 
 ```
-
+pr-label=### Added
+enhancement-label=### Changed
+bugs-label=### Fixed
+enhancement-labels=enhancement,change
+bug_labels=bug,hotfix
+exclude-labels=release
+unreleased-label=Unreleased
 ```
